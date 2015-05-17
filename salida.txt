@@ -1,0 +1,16 @@
+Seleccione la categoria: 
+0: Deportes  
+1: Historia  
+2: Geografia 
+1
+¿Cristobal Colon llego a America en 1492?
+0: Falso, 1: Verdadero: 1
+Perfecto, vamos por otra pregunta 
+Seleccione la categoria: 
+0: Deportes  
+1: Historia  
+2: Geografia 
+2
+¿La capital de la Provincia de Buenos Aires es La Plata?
+0: Falso, 1: Verdadero: 0
+Tu record es:1
